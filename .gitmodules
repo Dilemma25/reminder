@@ -1,3 +1,3 @@
-[submodule "reminder-protoc"]
+[submodule "auth-service/contracts"]
 	path = auth-service/contracts
 	url = https://github.com/Dilemma25/reminder-protoc.git
